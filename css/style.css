@@ -8,7 +8,7 @@
   margin-top: 20px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
 }
-.imgsize{
+.imgsize {
   width: 100%;
   height: 400px;
 }
@@ -436,17 +436,9 @@ body {
   .h3-elements {
     display: inline;
   }
-  .other-div-container {
-    display: inline;
-  }
-  .right-box {
-    background-color: white;
-    display: inline;
-  }
-  .left-box {
-    background-color: white;
-    display: inline;
-  }
+}
+.other-div-container {
+  display: inline;
 }
 @media (max-width: 730px) {
   .h3-elements {

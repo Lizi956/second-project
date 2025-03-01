@@ -439,6 +439,7 @@ body {
 }
 .other-div-container {
   display: inline;
+  display: flex;
 }
 @media (max-width: 730px) {
   .h3-elements {
